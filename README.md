@@ -4,8 +4,8 @@ In this assignment, you'll be creating a single page travel website using HTML a
 This place can be real or fictional. The goal of this website should help a new traveler to this place quickly 
 understand local customs and prepare them for a trip.
 
-In part 1, your focus will be on writing valid, semantic HTML for the content of your recipe. In part 2, you 
-will use the wireframes and mockup of your recipe to add images and write CSS for the recipe. Your goal is 
+In part 1, your focus will be on writing valid, semantic HTML for the content of your website. In part 2, you 
+will use the wireframes and mockup of your recipe to add images and write CSS for the website. Your goal is 
 to keep the proper semantics of the HTML, while doing your best to acheive what you mocked up. You will have 
 two weeks to write the CSS and lots of class time, so challenge yourself with a fun design!
 
