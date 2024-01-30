@@ -1,9 +1,21 @@
-# Your Favorite Recipe
+# Your Favorite Place
 
-In this assignment, you'll be creating a single page website using HTML and CSS for your favorite recipe. 
-What is a recipe? Anything that involves a set of ingredients and a set of directions. It could be a recipe 
-for soup, a recipe for disaster - whatever your favorite recipe is, as long as there is a set of ingredients 
-and a set of directions, go wild! Here's a [very simple example](https://docs.google.com/document/d/10uYBUDpqmjEQomhREas3zqlwPIL7pT1q_1ca-_C4twc/edit?usp=sharing) I wrote up for the wireframing videos.
+In this assignment, you'll be creating a single page travel website using HTML and CSS for your favorite place. 
+This place can be real or fictional. It should have the following types of content, and use the following HTML tags for each:
+
+- Title (Name of the place) - `<h1>`
+- A brief description of the place - what makes it special? Why will someone love visiting? This should be a maximum of 1-2 paragraphs. - `<p>` tags as needed
+- A list of the top 5 attractions or destinations in this place someone shouldn't miss in the area - `<ol>`
+	- Each list item - `<li>` - should have:
+		- The number (don't type this)
+		- A title (choose an appropriate heading tag level based on your other content)
+		- A picture or illustration - `<img>`
+		- A 1-3 sentence description of what makes it special - 
+    At least one helpful link, such as:
+    A link to the destination on Google Maps
+    A link that helps someone learn more about this destination. For example, if your destination is a park, plan to link to that park's website.
+    A list of 5-7 tips that would help someone new to the area, in no particular order
+    At least one section of your choice. Some ideas include local history, cuisine, trivia... this one is up to you!
 
 In part 1, your focus will be on writing valid, semantic HTML for the content of your recipe. In part 2, you 
 will use the wireframes and mockup of your recipe to add images and write CSS for the recipe. Your goal is 
